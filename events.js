@@ -29,4 +29,4 @@ Events.prototype.emit = function(eventType) {
 }
 
 
-module.exports = Emitter;
+module.exports = Events;
