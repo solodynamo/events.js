@@ -36,10 +36,3 @@ emtr.on('Expire', function() {
       DO YOUR OWN STUFF HERE WHEN A USER'S TOKEN EXPIRE
     */
 })
-
-
-/* For making the eventListner to perform stuff when a particular event happens we
-emit a particular event */
-
-emtr.emit('Logout');
-emtr.emit('Expire');
