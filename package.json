@@ -1,0 +1,25 @@
+{
+  "name": "events.js",
+  "version": "1.0.0",
+  "description": "Hack For Pivot Events",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solodynamo/events.js.git"
+  },
+  "keywords": [
+    "events",
+    "eventemitter",
+    "listner",
+    "node"
+  ],
+  "author": "solodynamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solodynamo/events.js/issues"
+  },
+  "homepage": "https://github.com/solodynamo/events.js#readme"
+}
